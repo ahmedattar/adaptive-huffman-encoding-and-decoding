@@ -1,1 +1,1 @@
-# adaptive huffman encoding and decoding
+# adaptive huffman implementation and report about audio compression tecniques.
